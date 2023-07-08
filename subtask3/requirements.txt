@@ -1,0 +1,4 @@
+emoji==2.2.0
+pandas==1.5.3
+torch==2.0.0+cu118
+transformers==4.28.1
